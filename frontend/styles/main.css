@@ -1,0 +1,145 @@
+.navbar-brand{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+.nav-item{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+}
+.nav-item .nav-link.active{
+    color: aquamarine !important;
+}
+.nav-link{
+    color: #000000 !important;
+}
+.nav-link:hover{
+    color: aquamarine !important;
+}
+/* categories */
+.section-title{
+    border-bottom: 3px;
+    margin-bottom: 50px;
+    padding-bottom: 8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.component-categories{
+    margin-bottom: 32px;
+}
+.categories-img{
+    width: 100%;
+    height: 462px;
+    overflow: hidden;
+    position: relative;
+
+    width: 100%;
+    height: 100%;
+}
+
+/* Tutup categories */
+
+.popular-products{
+    padding-top: 20px;
+    padding-bottom: 36px;
+}
+.section-title a{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+
+color: #000000;
+}
+.component-products{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    border: #000000;
+    padding-bottom: 15px;
+}
+.products-text{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+text-decoration: none;
+
+color: #000000;
+}
+
+.products-price{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    text-decoration: none;
+
+    color: #000000;
+}
+
+/* footer */
+.footer {
+    background-color: #D9D9D9;
+    margin-top: 30px;
+}
+.footer h4{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+}
+.footer h6{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+}
+.footer h5{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+}
+.footer p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+}
+.footers{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+
+    padding-top: 58px;  
+}
+.footer-1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+
+    padding-top: 58px;
+}
+.footer-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+
+    padding-top: 58px;
+    text-align: right;
+    margin-left: 300px;
+}
+
+/* Tutup footer */
+
